@@ -1,0 +1,17 @@
+{
+  "name": "ts-merge-project",
+  "version": "1.0.0",
+  "description": "Merge three sorted arrays without built-in sort function",
+  "main": "dist/merge.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.24",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+}
