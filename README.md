@@ -135,7 +135,7 @@ npm run build
 
 ## 🧪 Unit Testing
 
-The testing suite inside [tests/merge.test.ts](file:///d:/save/coding/interviewTest/PRIMO/test/tests/merge.test.ts) evaluates several strict scenarios and edge cases to verify that the implementation is exceptionally robust:
+The testing suite inside [tests/merge.test.ts] evaluates several strict scenarios and edge cases to verify that the implementation is exceptionally robust:
 - **Standard Balanced Inputs:** Validates merging arrays with regular positive integers.
 - **Varying Lengths:** Tests arrays with highly uneven lengths (e.g., small arrays combined with much larger ones).
 - **Negative & Zero Values:** Ensures correct ordering of negative numbers, zero, and positive numbers.
